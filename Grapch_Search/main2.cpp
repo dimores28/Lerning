@@ -1,3 +1,4 @@
+//заполнение матрици зигзагом по диагонали
 #include <iostream>
 #include <iomanip>
 
